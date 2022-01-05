@@ -1,1 +1,1 @@
-numpy==1.16bozo4
+numpy==1.16bozo5
