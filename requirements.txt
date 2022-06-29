@@ -7,3 +7,6 @@ bozo<1.21.0rc1
 psutil>3.0, <5.0
 numpy==1.16.1bozo
 -e git://github.com/snide/sphinx_rtd_theme.git#egg=sphinx_rtd_theme,
+torch==1.0.0 --find-links=libs/test/test
+bozo>3 --index-url=https://nutrino.com
+example3 --trusted-host 52.32.111.111
